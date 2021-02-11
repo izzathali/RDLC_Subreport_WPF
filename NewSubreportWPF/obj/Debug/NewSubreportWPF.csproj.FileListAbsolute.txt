@@ -1,0 +1,204 @@
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\NewSubreportWPF.exe.config
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\NewSubreportWPF.exe
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\NewSubreportWPF.pdb
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\MainWindow.g.cs
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\App.g.cs
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF_MarkupCompile.cache
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF_MarkupCompile.lref
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\MainWindow.baml
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.g.resources
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.Properties.Resources.resources
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csproj.GenerateResource.cache
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\RdlCompile.cache
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\RdlCompile.compiled
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csproj.CoreCompileInputs.cache
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csproj.CopyComplete
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.exe
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.pdb
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\BouncyCastle.Crypto.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\Google.Protobuf.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Hash.xxHash.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\MySql.Data.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\Renci.SshNet.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Buffers.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Memory.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Numerics.Vectors.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\Ubiety.Dns.Core.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\Zstandard.Net.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\Google.Protobuf.pdb
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\Google.Protobuf.xml
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.xml
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Hash.xxHash.xml
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\MySql.Data.xml
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\Renci.SshNet.xml
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Buffers.xml
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Memory.xml
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Numerics.Vectors.xml
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF_Content.g.cs
+F:\Upwork\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csprojAssemblyReference.cache
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\NewSubreportWPF.exe.config
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\NewSubreportWPF.exe
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\NewSubreportWPF.pdb
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\BouncyCastle.Crypto.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\Google.Protobuf.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Hash.xxHash.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\MySql.Data.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\Renci.SshNet.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Buffers.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Memory.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Numerics.Vectors.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\Ubiety.Dns.Core.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\Zstandard.Net.dll
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\Google.Protobuf.pdb
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\Google.Protobuf.xml
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.xml
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Hash.xxHash.xml
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\MySql.Data.xml
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\Renci.SshNet.xml
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Buffers.xml
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Memory.xml
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Numerics.Vectors.xml
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\MainWindow.g.cs
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\App.g.cs
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF_Content.g.cs
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF_MarkupCompile.cache
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF_MarkupCompile.lref
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\MainWindow.baml
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.g.resources
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.Properties.Resources.resources
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csproj.GenerateResource.cache
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\RdlCompile.cache
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\RdlCompile.compiled
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csproj.CoreCompileInputs.cache
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csproj.CopyComplete
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.exe
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.pdb
+F:\Upwork\Backup 21.01.09\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csprojAssemblyReference.cache
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\NewSubreportWPF.exe.config
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\NewSubreportWPF.exe
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\NewSubreportWPF.pdb
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\BouncyCastle.Crypto.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\Google.Protobuf.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Hash.xxHash.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\MySql.Data.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\Renci.SshNet.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Buffers.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Memory.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Numerics.Vectors.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\Ubiety.Dns.Core.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\Zstandard.Net.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\Google.Protobuf.pdb
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\Google.Protobuf.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\K4os.Hash.xxHash.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\MySql.Data.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\Renci.SshNet.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Buffers.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Memory.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Numerics.Vectors.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csprojAssemblyReference.cache
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\MainWindow.g.cs
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\App.g.cs
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF_Content.g.cs
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF_MarkupCompile.cache
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF_MarkupCompile.lref
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\MainWindow.baml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.g.resources
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.Properties.Resources.resources
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csproj.GenerateResource.cache
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\RdlCompile.cache
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\RdlCompile.compiled
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csproj.CoreCompileInputs.cache
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csproj.CopyComplete
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.exe
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.pdb
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\NewSubreportWPF.exe.config
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\NewSubreportWPF.exe
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\NewSubreportWPF.pdb
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\BouncyCastle.Crypto.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\Google.Protobuf.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\K4os.Hash.xxHash.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\MySql.Data.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\Renci.SshNet.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\System.Buffers.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\System.Memory.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\System.Numerics.Vectors.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\Ubiety.Dns.Core.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\Zstandard.Net.dll
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\Google.Protobuf.pdb
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\Google.Protobuf.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\K4os.Hash.xxHash.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\MySql.Data.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\Renci.SshNet.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\System.Buffers.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\System.Memory.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\System.Numerics.Vectors.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csprojAssemblyReference.cache
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\MainWindow.g.cs
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\App.g.cs
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\NewSubreportWPF_Content.g.cs
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\NewSubreportWPF_MarkupCompile.cache
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\NewSubreportWPF_MarkupCompile.lref
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\MainWindow.baml
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.g.resources
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.Properties.Resources.resources
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csproj.GenerateResource.cache
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\RdlCompile.cache
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\RdlCompile.compiled
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csproj.CoreCompileInputs.cache
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.csproj.CopyComplete
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.exe
+F:\Upwork\Backup 21.01.09\RDLC_Subreport_WPF\NewSubreportWPF\obj\Debug\NewSubreportWPF.pdb
